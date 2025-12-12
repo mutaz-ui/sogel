@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>حساب مطاوع</title>
+
+    <style>
+        body {
+            font-family: "Tahoma", sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            text-align: center;
+        }
+
+        header {
+            background: #222;
+            color: #fff;
+            padding: 20px;
+            font-size: 28px;
+        }
+
+        .container {
+            margin-top: 40px;
+        }
+
+        .box {
+            background: white;
+            width: 80%;
+            max-width: 500px;
+            margin: auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        footer {
+            margin-top: 40px;
+            padding: 15px;
+            background: #222;
+            color: white;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        مرحباً بك في موقع مطاوع
+    </header>
+
+    <div class="container">
+        <div class="box">
+            <h2>أهلاً بك 👋</h2>
+            <p>هذا هو الموقع التجريبي المرفوع على GitHub Pages.</p>
+            <p>يمكنك تعديل هذا النص كما تشاء.</p>
+        </div>
+    </div>
+
+    <footer>
+        جميع الحقوق محفوظة © 2025
+    </footer>
+
+</body>
+</html>
